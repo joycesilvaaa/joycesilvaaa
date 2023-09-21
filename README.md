@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00FA9A"/> 
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=00FA9A"/>
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=00FA9A"/>
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=00FA9A"/>
 </div>
 <h2> GitHub Stats: </h2> 
 <div align="center"/>
