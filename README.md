@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vido ao meu perfil!</h1>
+<h1>Olá, seja bem vindo ao meu perfil!</h1>
   
 <h2>Estudando atualmente: </h2>
 
