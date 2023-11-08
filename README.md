@@ -1,4 +1,7 @@
 <h1>✨Olá, seja bem vindo ao meu perfil!✨</h1>
+<div align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="600" >
+</div>
   
 <h2>👩🏻‍💻Estudando atualmente: </h2>
 
