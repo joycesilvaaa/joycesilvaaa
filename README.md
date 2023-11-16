@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="600" >
 </div>
+
+<h2>📌Sobre mim: </h2>
+  <p>Tenho 21 anos e possuo um diploma técnico em administração. Atualmente, estudo Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal, em São José dos Campos. Desde meu primeiro contato com a programação, desenvolvi um forte interesse pela área devido à sua natureza desafiadora e à constante oportunidade de aprendizado.</p>
   
 <h2>👩🏻‍💻Estudando atualmente: </h2>
 
