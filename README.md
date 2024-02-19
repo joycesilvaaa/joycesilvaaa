@@ -4,7 +4,7 @@
 </div>
 
 <h2>📌Sobre mim: </h2>
-  <p>Tenho 21 anos e possuo um diploma técnico em administração. Atualmente, estudo Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal, em São José dos Campos. Desde meu primeiro contato com a programação, desenvolvi um forte interesse pela área devido à sua natureza desafiadora e à constante oportunidade de aprendizado.</p>
+  <p> Olá! Me chamo Joyce Silva e sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal, em São José dos Campos. Estou dedicada a aprimorar minhas habilidades em linguagens e tecnologias como JavaScript, Python, MySQL, HTML, CSS, React, Node.js e TypeScript. Desde meu primeiro contato com a programação, desenvolvi um forte amor pelo estudo na área de tecnologia devido à sua natureza desafiadora e à constante oportunidade de aprendizado. Além disso, valorizo muito o trabalho em equipe, colaborando em projetos e compartilhando ideias. Estou empenhada em desenvolver não apenas minhas habilidades técnicas, mas também minhas habilidades interpessoais, buscando contribuir positivamente em qualquer equipe da qual faça parte.</p>
   
 <h2>👩🏻‍💻Estudando atualmente: </h2>
 
