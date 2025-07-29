@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=white&color=450920"/>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white&color=450920"/>
+  
 </div>
 </div>
 <h2>👾 GitHub Stats: </h2> 
