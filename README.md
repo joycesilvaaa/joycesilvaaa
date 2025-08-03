@@ -34,12 +34,37 @@
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white&color=450920"/>
   
 </div>
-</div>
-<h2>👾 GitHub Stats: </h2> 
-<div align="center"/>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joycesilvaaa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
+<h2>⚙️ GitHub Analytics</h2>
+
+<table>
+  <tr>
+    <td>
+      <img
+        width="400"
+        src="https://github-readme-stats.vercel.app/api?username=joycesilvaaa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        width="450"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=joycesilvaaa&theme=blue-green&hide_border=false&layout=compact"
+        alt="Github Streak"
+      />
+    </td>
+    <td>
+      <img
+    width="320"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycesilvaaa&theme=blue-green&hide_border=false&layout=compact"
+    alt="Top Languages"
+  />
+    </td>
+  </tr>
+</table>
 <h2>👩🏻‍💻 Acesse o meu portfólio <a href="https://joycesilva.vercel.app/" target="_blank">aqui!</a></h2>
 
+<div align="center" style="position:relative;">
+
+</div>
 
