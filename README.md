@@ -20,26 +20,33 @@
 ```
   
 <h2>👩🏻‍💻 My Skills: </h2>
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Databases</th>
+    <th>Frameworks / Libraries</th>
+    <th>DevOps / Tools</th>
+    <th>Operating Systems</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,express,react" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,aws,docker" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
+    </td>
+  </tr>
+</table>
 
-<div align="center"/>
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=450920"/>
-   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=450920"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=450920"/>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white&color=450920"/>
-</div>
-</div>
 
 <h2>⚙️ GitHub Analytics</h2>
 
