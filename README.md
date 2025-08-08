@@ -10,7 +10,7 @@
   </p>
 </div>  
 
-<h2>👩🏻‍💻 My Skills</h2>
+<h2>👩🏻‍💻 Stacks</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs,mysql,postgres,mongodb,cassandra,redis,spring,fastapi,flask,express,react,aws,docker,linux,windows"  />
 </div>
