@@ -4,7 +4,7 @@
   <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="600"  />
   </div>
   
-  <h2>👩🏻‍🎓 About Me</h2>
+  <h2> 👋 About Me</h2>
   <p>
     I’m <strong>Joyce Silva</strong>, currently studying <em>Multiplatform Software Development</em> at <em>FATEC - São José dos Campos</em>. My focus is on <strong>backend development</strong>, <strong>databases</strong>, <strong>service architecture</strong>, and <strong>cloud computing</strong>. Right now, I’m actively learning and improving my skills in these areas.
   </p>
