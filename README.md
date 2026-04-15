@@ -35,27 +35,6 @@
   </picture>
 </div>
 
-<h2>⚙️ GitHub Analytics</h2>
-<table align="center">
-  <tr>
-    <td>
-      <img
-        width="400"
-        src="https://github-readme-stats.vercel.app/api?username=joycesilvaaa&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-    width="320"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycesilvaaa&theme=blue-green&hide_border=false&layout=compact"
-    alt="Top Languages"
-  />
-    </td>
-  </tr>
-</table>
-
-
 
 <h2 align="center">📫 Connect with me</h2>
 <div align="center" style="margin-bottom: 20px;">
